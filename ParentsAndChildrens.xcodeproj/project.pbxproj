@@ -18,6 +18,7 @@
 		83A269BF27CD62EB00E71498 /* FieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83A269BE27CD62EB00E71498 /* FieldView.swift */; };
 		83A269C127CD62FE00E71498 /* FooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83A269C027CD62FE00E71498 /* FooterView.swift */; };
 		83A269C427CD635000E71498 /* Child.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83A269C327CD635000E71498 /* Child.swift */; };
+		83A269C627CD673300E71498 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 83A269C527CD673300E71498 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		83A269BE27CD62EB00E71498 /* FieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FieldView.swift; sourceTree = "<group>"; };
 		83A269C027CD62FE00E71498 /* FooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FooterView.swift; sourceTree = "<group>"; };
 		83A269C327CD635000E71498 /* Child.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Child.swift; sourceTree = "<group>"; };
+		83A269C527CD673300E71498 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +52,7 @@
 		83A2699A27CD613900E71498 = {
 			isa = PBXGroup;
 			children = (
+				83A269C527CD673300E71498 /* README.md */,
 				83A269A527CD613900E71498 /* ParentsAndChildrens */,
 				83A269A427CD613900E71498 /* Products */,
 			);
@@ -150,6 +153,7 @@
 			files = (
 				83A269B327CD613B00E71498 /* LaunchScreen.storyboard in Resources */,
 				83A269B027CD613B00E71498 /* Assets.xcassets in Resources */,
+				83A269C627CD673300E71498 /* README.md in Resources */,
 				83A269AE27CD613900E71498 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
